@@ -1,2 +1,33 @@
 /* CSS styles */
-
+body {
+  background: pink;
+}
+p {
+  color:blueviolet;
+font-size: 120%;
+ }
+img {
+  height: 300px;
+  margin-left: 50px;
+}
+h1 {
+  font-size: 300%;
+    color: teal;
+  text-align: center;
+}
+em {
+  color: red;
+}
+strong {
+  color: red;
+}
+ul {
+  color: blue
+}
+p.intro {
+  text-align: left;
+  font-size: 150%
+}
+h2 {
+  color: teal
+}
